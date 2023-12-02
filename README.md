@@ -1,4 +1,3 @@
-<img src="https://miro.medium.com/v2/resize:fit:1600/0*C-cPP9D2MIyeexAT.gif" alt="loading img">
 <h1 align="center">Hi 👋, I'm Abdul Qudoos</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="loading img">
